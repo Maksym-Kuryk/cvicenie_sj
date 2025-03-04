@@ -28,6 +28,7 @@
         </ul>
         <a class="hamburger" id="hamburger">
             <i class="fa fa-bars"></i>
+            <!-- komentar -->
         </a>
       </nav>
     </header>
